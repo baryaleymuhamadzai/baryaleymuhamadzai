@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Baryaley</h1>
-<h3 align="center">A Backend developer</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **flutter, solidity**
+- 🌱 I’m currently learning **flutter, solidity, cyber security fundamentals**
 
 - 💬 Ask me about **linux, django, flask**
 
